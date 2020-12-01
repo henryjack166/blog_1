@@ -1,0 +1,6 @@
+{
+  "autoload": {
+    "classmap": ["app/"],
+    "App\\": "app/"
+  }
+}

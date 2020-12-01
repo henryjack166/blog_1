@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ceef24e-68c4-4954-8c75-b49473bb69ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="1imTx7EnwdaIQvuPB7yxYlz9fYr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project-tow" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\day_3_project_2\admin\add_category" />
+      <recent name="C:\xampp\htdocs\day_3_project_2\App\clas" />
+      <recent name="C:\xampp\htdocs\day_3_project_2\App" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ceef24e-68c4-4954-8c75-b49473bb69ef" name="Default Changelist" comment="" />
+      <created>1602512011392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602512011392</updated>
+      <workItem from="1602512012514" duration="9536000" />
+      <workItem from="1602555305789" duration="19372000" />
+      <workItem from="1603032667837" duration="314000" />
+      <workItem from="1603035592332" duration="1456000" />
+      <workItem from="1603041548767" duration="756000" />
+      <workItem from="1603082493144" duration="3843000" />
+      <workItem from="1603126950580" duration="719000" />
+      <workItem from="1603248934961" duration="36000" />
+      <workItem from="1603249636817" duration="2318000" />
+      <workItem from="1603847728267" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="158" y="0" key="#PHP.inPresentationMode" timestamp="1602558840954">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="158" y="0" key="#PHP.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1602558840954" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603847764177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603847764177" />
+    <state x="576" y="135" key="NewPhpClassDialog" timestamp="1602512313499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="310" y="0" key="NewPhpClassDialog.inPresentationMode" timestamp="1602566494742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="310" y="0" key="NewPhpClassDialog.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1602566494742" />
+    <state x="576" y="135" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1602512313499" />
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1602570285789">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="414" y="249" key="NewPhpFileDialog.inPresentationMode" timestamp="1602566186349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="414" y="249" key="NewPhpFileDialog.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1602566186349" />
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1602570285789" />
+    <state x="622" y="117" width="914" height="707" key="SettingsEditor" timestamp="1602558032669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor.inPresentationMode" timestamp="1602560081679">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1602560081679" />
+    <state x="622" y="117" width="914" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602558032669" />
+    <state x="320" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602556183215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="320" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1602556183215" />
+    <state x="565" y="267" width="609" height="280" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1602555548361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="267" width="609" height="280" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1602555548361" />
+    <state x="425" y="199" key="run.anything.popup" timestamp="1602557682718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="199" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602557682718" />
+  </component>
+</project>

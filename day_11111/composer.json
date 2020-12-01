@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/day_11111",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "PC",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "classmap": ["app/"],
+    "psr-4": {
+      "app\\": "app/"
+    }
+  }
+}
